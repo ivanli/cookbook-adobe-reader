@@ -1,0 +1,1 @@
+default['adobe-reader']['package_version'] = :latest
